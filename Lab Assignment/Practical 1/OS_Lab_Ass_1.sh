@@ -134,5 +134,4 @@ then
 else
 	mv $name/summary.txt .
 	mv summary.txt gen_summary.txt
-	echo "DUH"
 fi
